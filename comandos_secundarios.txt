@@ -1,0 +1,1 @@
+Esse arequivo contém informações adicionais para git
